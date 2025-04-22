@@ -144,7 +144,8 @@ LibreTV 支持标准的苹果 CMS V10 API 格式。添加自定义 API 时需遵
 - Cloudflare/Vercel/Netlify Serverless Functions
 - 服务端 HLS 代理和处理技术
 - localStorage 本地存储
-
+- 本项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持。
+感谢 VTEXS 对开源社区的支持！
 ## 🔄 更新日志
 
 - **1.1.1** (2025-04-19): 
