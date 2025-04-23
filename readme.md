@@ -17,11 +17,16 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
   <img src="https://testingcf.jsdelivr.net/gh/bestZwei/imgs@master/picgo/image-20250406231222216.png" alt="项目截图" style="max-width:600px">
 </details>
 
+## 🥇 感谢赞助
+
+- **[YXVM](https://yxvm.com)**  
+- **[VTEXS](https://vtexs.com)**
+
 ## 🚀 快速部署
 
 选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLibreSpark%2FLibreTV)[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLibreSpark%2FLibreTV) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)
 
 ## 📋 详细部署指南
 
@@ -148,6 +153,10 @@ LibreTV 支持标准的苹果 CMS V10 API 格式。添加自定义 API 时需遵
 感谢 VTEXS 对开源社区的支持！
 ## 🔄 更新日志
 
+<details>
+  <summary>点击查看更新日志</summary>
+
+- **1.1.2** (2025-04-22): 新增豆瓣热门内容显示，设置中可开关
 - **1.1.1** (2025-04-19): 
   - 修复 docker 部署时无法搜索的问题
   - 修复播放页面进度保存与恢复的兼容性问题  
@@ -156,6 +165,8 @@ LibreTV 支持标准的苹果 CMS V10 API 格式。添加自定义 API 时需遵
 - **1.0.2** (2025-04-08): 分离播放页面，优化视频源 API 兼容性
 - **1.0.1** (2025-04-07): 添加广告过滤功能，优化播放器性能
 - **1.0.0** (2025-04-06): 初始版本发布
+
+</details>
 
 ## ⚠️ 免责声明
 
